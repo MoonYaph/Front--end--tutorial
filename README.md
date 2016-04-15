@@ -65,8 +65,9 @@
 ## 综合API
 * runoob.com-包含各种API集合|http://www.runoob.com
 * 开源中国在线API文档合集|http://tool.oschina.net/apidocs
-* devdocs|http://devdocs.io 英文综合API网站
+* devdocs|http://devdocs.io 
 
+英文综合API网站
 ## jQuery
 * jQuery API 中文文档|http://www.jquery123.com
 * hemin 在线版|http://hemin.cn/jq
@@ -76,14 +77,14 @@
 * jquery 源码查找|http://james.padolsey.com/jquery
 
 ## Ecmascript
-Understanding ECMAScript 6 - Nicholas C. Zakas|https://leanpub.com/understandinges6/read
-exploring-es6|https://leanpub.com/exploring-es6/read
-exploring-es6翻译|https://github.com/es6-org/exploring-es6
-exploring-es6翻译后预览|http://es6-org.github.io/exploring-es6
-阮一峰 es6|http://es6.ruanyifeng.com
-阮一峰 Javascript|http://javascript.ruanyifeng.com
-ECMA-262，第 5 版|http://yanhaijing.com/es5 
-es5|http://es5.github.io
+* Understanding ECMAScript 6 - Nicholas C. Zakas|https://leanpub.com/understandinges6/read
+* exploring-es6|https://leanpub.com/exploring-es6/read
+* exploring-es6翻译|https://github.com/es6-org/exploring-es6
+* exploring-es6翻译后预览|http://es6-org.github.io/exploring-es6
+* 阮一峰 es6|http://es6.ruanyifeng.com
+* 阮一峰 Javascript|http://javascript.ruanyifeng.com
+* ECMA-262，第 5 版|http://yanhaijing.com/es5 
+* es5|http://es5.github.io
 
 ## Js template
 * template-chooser|http://garann.github.io/template-chooser
@@ -115,6 +116,7 @@ es5|http://es5.github.io
 * css3 按钮动画|http://fian.my.id/Waves
 * animate.css|http://daneden.github.io/animate.css
 * 全局CSS的终结(狗带 [译]|http://www.alloyteam.com/2015/10/8536
+* browserhacks|http://browserhacks.com 
 
 ## Angularjs
 * Angular.js 的一些学习资源|https://github.com/dolymood/AngularLearning
@@ -179,7 +181,7 @@ es5|http://es5.github.io
 * 特色的HTML框架可以创建精美的iOS应用|http://framework7.taobao.org
 * 淘宝SUI|http://m.sui.taobao.org
 
-avalon
+##　avalon
 * avalonjs|http://avalonjs.github.io
 * Avalon新一代UI库： OniUI|http://ued.qunar.com/oniui/index.html
 * avalon.oniui-基于avalon的组件库|https://github.com/RubyLouvre/avalon.oniui |
@@ -297,202 +299,202 @@ avalon
   
 ## ionic
 * ionic|https://github.com/ychow/ionic-guide   
+* Mock.js 是一款模拟数据生成器|http://mockjs.com   
 
-|地址 --- | ---
-  Mock.js 是一款模拟数据生成器|http://mockjs.com   
+## 前端
+* 通过分析github代码库总结出来的工程师代码书写习惯|http://alloyteam.github.io/CodeGuide 
+* HTML&amp;CSS编码规范 by @mdo|http://codeguide.bootcss.com 
+* 团队合作的css命名规范-腾讯AlloyTeam前端团队|http://www.alloyteam.com/2011/10/107 
+* 前端编码规范之js - by yuwenhui|http://yuwenhui.github.io 
+* 前端编码规范之js - by 李靖|http://www.cnblogs.com/hustskyking/p/javascript-spec.html 
+* 前端开发规范手册|http://zhibimo.com/read/Ashu/front-end-style-guide 
+* Airbnb JavaScript 编码规范（简体中文版）|https://github.com/yuche/javascript#table-of-contents 
+* AMD与CMD规范的区别|http://www.zhihu.com/question/20351507 
+* AMD与CMD规范的区别|http://www.cnblogs.com/tugenhua0707/p/3507957.html 
+* KISSY 源码规范|http://docs.kissyui.com/1.4/docs/html/tutorials/style-guide/kissy-source-style.html 
+* bt编码规范|http://codeguide.bootcss.com 
+* 规范加强版|https://github.com/Suxiaogang/Code_Guide 
+* 前端代码规范 及 最佳实践|http://blog.jobbole.com/79075 
+* 百度前端规范|http://coderlmn.github.io/code-standards 
+* 百度前端规范|http://isobar-idev.github.io/code-standards 
+* 百度前端规范|http://zhuanlan.zhihu.com/fuyun/19884834 
+* ECMAScript6 编码规范--广发证券前端团队|https://github.com/gf-rd/es6-coding-style 
+* JavaScript 风格指南/编码规范（Airbnb公司版）|http://blog.jobbole.com/79484 
+* 网易前端开发规范|http://nec.netease.com/standard 
+* css模块|http://www.75team.com/archives/1049 
+* 前端规范资源列表|https://github.com/ecomfe/spec
+  
+     
+##　PHP
+* 最流行的PHP 代码规范|http://segmentfault.com/a/1190000000443795 
+* 最流行的PHP 代码规范|https://github.com/hfcorriez/fig-standards/blob/zh_CN/%E6%8E%A5%E5%8F%97/PSR-2-coding-style-guide.md  
+ 
+## Android
+* 【敏捷开发】Android团队开发规范|http://www.cnblogs.com/lcw/p/3619181.html 
+* Android 开发规范与应用|http://www.jianshu.com/p/4390f4fe19b3 
 
-  前端| 地址 --- | ---
-|地址 --- | ---
-  通过分析github代码库总结出来的工程师代码书写习惯|http://alloyteam.github.io/CodeGuide 
-  HTML&amp;CSS编码规范 by @mdo|http://codeguide.bootcss.com 
-  团队合作的css命名规范-腾讯AlloyTeam前端团队|http://www.alloyteam.com/2011/10/107 
-  前端编码规范之js - by yuwenhui|http://yuwenhui.github.io 
-  前端编码规范之js - by 李靖|http://www.cnblogs.com/hustskyking/p/javascript-spec.html 
-  前端开发规范手册|http://zhibimo.com/read/Ashu/front-end-style-guide 
-  Airbnb JavaScript 编码规范（简体中文版）|https://github.com/yuche/javascript#table-of-contents 
-  AMD与CMD规范的区别|http://www.zhihu.com/question/20351507 
-  AMD与CMD规范的区别|http://www.cnblogs.com/tugenhua0707/p/3507957.html 
-  KISSY 源码规范|http://docs.kissyui.com/1.4/docs/html/tutorials/style-guide/kissy-source-style.html 
-  bt编码规范|http://codeguide.bootcss.com 
-  规范加强版|https://github.com/Suxiaogang/Code_Guide 
-  前端代码规范 及 最佳实践|http://blog.jobbole.com/79075 
-  百度前端规范|http://coderlmn.github.io/code-standards 
-  百度前端规范|http://isobar-idev.github.io/code-standards 
-  百度前端规范|http://zhuanlan.zhihu.com/fuyun/19884834 
-  ECMAScript6 编码规范--广发证券前端团队|https://github.com/gf-rd/es6-coding-style 
-  JavaScript 风格指南/编码规范（Airbnb公司版）|http://blog.jobbole.com/79484 
-  网易前端开发规范|http://nec.netease.com/standard 
-  css模块|http://www.75team.com/archives/1049 
-  前端规范资源列表|https://github.com/ecomfe/spec   
-  PHP| 地址 --- | ---
-|地址 --- | ---
-  最流行的PHP 代码规范|http://segmentfault.com/a/1190000000443795 
-  最流行的PHP 代码规范|https://github.com/hfcorriez/fig-standards/blob/zh_CN/%E6%8E%A5%E5%8F%97/PSR-2-coding-style-guide.md   
-  Android| 地址 --- | ---
-|地址 --- | ---
-  【敏捷开发】Android团队开发规范|http://www.cnblogs.com/lcw/p/3619181.html 
-  Android 开发规范与应用|http://www.jianshu.com/p/4390f4fe19b3   
-  各大公司开源项目| 地址 --- | ---
-|地址 --- | ---
-  Facebook Projects|https://code.facebook.com/projects/web 
-  百度web前端研发部|http://fex.baidu.com 
-  百度EFE|http://efe.baidu.com 
-  百度github|https://github.com/fex-team 
-  alloyteam|http://www.alloyteam.com 
-  alloyteam-github|http://alloyteam.github.io 
-  alloyteam-AlloyGameEngine|https://github.com/AlloyTeam/AlloyGameEngine 
-  AlloyDesigner|http://alloyteam.github.io/AlloyDesigner 
-  即时修改，即时保存，设计稿较正，其它开发辅助工具 H5交互页编辑器AEditor介绍|http://www.alloyteam.com/2015/06/h5-jiao-hu-ye-bian-ji-qi-aeditor-jie-shao 
-  H5动画交互页开发的工具介绍 AEditor|http://aeditor.alloyteam.com 
-  H5动画交互页开发的工具 maka|http://forum.maka.im/wordpress 
-  值得订阅的weekly|https://github.com/fenbility/weekly-feed 
-  腾讯html5|http://cube.qq.com 
-  奇舞团开源项目|http://75team.github.io 
-  Qunar UED|http://ued.qunar.com 
-  Scrat|http://scrat.io   
-  常用 |地址 --- | ---
-|地址 --- | ---
-  ieBetter.js-让IE6-IE8拥有IE9+,Chrome等浏览器特性|http://www.zhangxinxu.com/wordpress/2013/12/iebetter-js-make-ie6-ie8-like-modern-browser-ie9-chrome 
- 模拟键盘|http://mottie.github.io/Keyboard 
- 拼音|https://github.com/hotoo/pinyin 
- 中国个人身份证号验证|https://github.com/mc-zone/IDValidator 
-   算法 | 地址 --- | ---
-|地址 --- | ---
-  数据结构与算法 JavaScript 描述. 章节练习|https://github.com/Ralph-Wang/algorithm.in.js 
- 常见排序算法（JS版）|https://github.com/twobin/twobinSort 
- 经典排序|https://github.com/luofei2011/jsAgm/blob/master/js/sort.js 
- 常见排序算法-js版本|https://github.com/hechangmin/jssort 
- JavaScript 算法与数据结构 精华集|https://github.com/lightningtgc/JavaScript-Algorithms 
- 面试常考算法题精讲|http://www.nowcoder.com/live/courses 
-   移动端 | 地址 --- | ---
-|地址 --- | ---
-  fastclick|https://github.com/ftlabs/fastclick 
- no-click-delay|https://github.com/mmastrac/jquery-noclickdelay 
-   JSON | 地址 --- | ---
-|地址 --- | ---
-  模拟生成JSON数据|http://beta.json-generator.com 
- 返回跨域JSONAPI|http://jsonp.afeld.me 
-   Html5 | 地址 --- | ---
-|地址 --- | ---
-  HTML5 有哪些让你惊艳的 demo？|http://www.zhihu.com/question/24398907 
-   CSS | 地址 --- | ---
-|地址 --- | ---
-  browserhacks|http://browserhacks.com 
-   焦点图 | 地址 --- | ---
-|地址 --- | ---
-  myfocus|https://github.com/koen301/myfocus 
- myfocus-官方演示站|http://www.chhua.com/myfocus 
- SuperSlidev2.1 -- 大话主席|http://www.superslide2.com 
- soChange|http://www.bujichong.com/sojs/soChange/index.html 
-   Ext, EasyUI, J-UI 及其它各种UI方案 | 地址 --- | ---
-|地址 --- | ---
- extjs|https://www.sencha.com/products/extjs 
- ext4英文api|http://docs.sencha.com/extjs/4.0.7 
- ext4中文api|http://extjs-doc-cn.github.io/ext4api 
-   EasyUI | 地址 --- | ---
-|地址 --- | ---
-  jquery easyui 未压缩源代码|http://jquery-easyui.googlecode.com/svn/trunk/src 
-   J-UI | 地址 --- | ---
-|地址 --- | ---
-  J-UI|http://jui.org 
-   Other | 地址 --- | ---
-|地址 --- | ---
-  MUI-最接近原生APP体验的高性能前端框架|http://dcloudio.github.io/mui 
- Amaze UI | 中国首个开源 HTML5 跨屏前端框架|http://amazeui.org 
- 淘宝 HTML5 前端框架|http://m.sui.taobao.org 
- KISSY - 阿里前端JavaScript库|http://docs.kissyui.com 
- 网易Nej - Nice Easy Javascript|http://nej.netease.com 
- Kendo UI MVVM Demo|http://demos.telerik.com/kendo-ui/mvvm/index 
- Bootstrap|http://www.bootcss.com 
- Smart UI|http://smartui.chinamzz.com 
- 雅虎UI - CSS UI|http://developer.yahoo.com/yui/grids 
-   页面 社会化 分享功能 | 地址 --- | ---
-|地址 --- | ---
-  百度分享|http://share.baidu.com 
- pc端 JiaThis|http://jiathis.com 
- pc端 社会化分享组件|http://developer.baidu.com/soc/share 
- 移动端 ShareSDK 轻松实现社会化功能|http://www.mob.com/#/index 
- 移动端 友盟分享|http://dev.umeng.com/social/android/quick-integration 
- 移动端   富文本编辑器 | 地址 --- | ---
-|地址 --- | ---
-  功能齐全 tinymce|https://www.tinymce.com 
- 百度 ueditor|http://ueditor.baidu.com/website 
- 经典的ckeditor|http://ckeditor.com 
- 经典的kindeditor|http://kindeditor.net 
- wysiwyg|http://www.bootcss.com/p/bootstrap-wysiwyg 
- 一个有情怀的编辑器。Bach's Editor|http://integ.github.io/BachEditor 
- tower用的编辑器|https://github.com/mycolorway/simditor 
- summernote 编辑器|https://github.com/summernote/summernote 
- html5编辑器|http://neilj.github.io/Squire 
- XEditor|http://lab.hustlzp.com/XEditor 
- wangEditor|https://github.com/wangfupeng1988/wangEditor 
-    PC | 地址 --- | ---
-|地址 --- | ---
-  经典my97|http://www.my97.net/dp/demo/index.htm 
- 强大的独立日期选择器|http://www.cnblogs.com/gbin1/archive/2012/04/16/2452105.html 
- fullcalendar|http://fullcalendar.io 
- fullcalendar日历控件知识点集合 |http://blog.csdn.net/francislaw/article/details/7740630 
- 中文api|http://blog.sina.com.cn/s/blog_9475b1c101012c5f.html 
- 农历日历|https://github.com/zzyss86/LunarCalendar 
- 超酷的仿百度带节日日历老黄历控件|http://www.sucaisj.com/jiaoben/date/201509/16856.html 
- 日期格式化|http://momentjs.com 
- 大牛日历控件|https://github.com/Johnqing/QPAYCalendar 
- 我群某管理作品|https://github.com/Iamlars/dateMarker 
- input按位替换-官网|http://digitalbush.com/projects/masked-input-plugin 
- input按位替换-github|https://github.com/digitalBush/jquery.maskedinput/tree/1.2.2 
- bootstrap-daterangepicker|https://github.com/dangrossman/bootstrap-daterangepicker 
- 国外30个插件集合|http://www.vandelaydesign.com/30-best-free-jquery-plugins 
- JavaScript datepicker|http://dbushell.com/2012/10/09/pikaday-javascript-datepicker 
- Datepair.js|http://jonthornton.github.io/Datepair.js 
- 一个风格多样的日历|https://github.com/glad/glDatePicker 
- 弹出层式的全日历|http://amsul.ca/pickadate.js/date 
- jquery双日历|http://www.daterangepicker.com 
-   移动 | 地址 --- | ---
-|地址 --- | ---
-  大气实用jQuery手机移动端日历日期选择插件|http://www.frankdemo.cn/index.php?c=content&amp;a=show&amp;id=115 
- jQuery Mobile 移动开发中的日期插件Mobiscroll |https://mobiscroll.com 
-   Date library | 地址 --- | ---
-|地址 --- | ---
-  Datejs|https://github.com/datejs/Datejs 
- sugarjs|http://sugarjs.com/api/Date 
-   综合效果搜索平台 | 地址 --- | ---
-|地址 --- | ---
-  效果网|http://www.jq22.com 
- 17素材|http://www.17sucai.com 
- 常用的JavaScript代码片段|http://microjs.com 
-   概述 | 地址 --- | ---
-|地址 --- | ---
-  前端工具大全|http://www.awesomes.cn 
- 什么是前端工程化|https://github.com/fouber/blog/issues/10?from=timeline&amp;isappinstalled=0# 
-   Gulp  | 地址 --- | ---
-|地址 --- | ---
-   Gulp官网|http://gulpjs.com 
- Gulp中文网|http://www.gulpjs.com.cn 
- gulp资料收集|https://github.com/Platform-CUF/use-gulp 
- Gulp：任务自动管理工具 - ruanyifeng|http://javascript.ruanyifeng.com/tool/gulp.html 
- Gulp插件|http://gulpjs.com/plugins 
- Gulp不完全入门教程|http://www.ido321.com/1622.html 
- 为什么使用gulp?|https://github.com/hjzheng/CUF_meeting_knowledge_share/issues/33 
- Gulp安装及配合组件构建前端开发一体化|http://www.dbpoo.com/getting-started-with-gulp 
- Gulp 入门指南|https://github.com/nimojs/gulp-book 
- Gulp 入门指南 - nimojs|https://github.com/nimojs/blog/issues/19 
- Gulp入门教程|http://markpop.github.io/2014/09/17/Gulp%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B 
- Gulp in Action|http://www.imooc.com/video/5692 
- Gulp开发教程（翻译）|http://www.w3ctech.com/topic/134 
- 前端构建工具gulpjs的使用介绍及技巧|http://www.cnblogs.com/2050/p/4198792.html 
-   Grunt  | 地址 --- | ---
-|地址 --- | ---
-   gruntjs|http://gruntjs.com 
- Grunt中文网|http://www.gruntjs.net 
-   Fis  | 地址 --- | ---
-|地址 --- | ---
-   fis 官网|http://fex-team.github.io/fis-site/index.html 
- fis|http://fis.baidu.com 
-   pc图轮  | 地址 --- | ---
-|地址 --- | ---
-   单屏轮播sochange|http://www.jsfoot.com/jquery/demo/2011-09-20/192.html 
- 左右按钮多图切换|http://bxslider.com/examples/carousel-demystified 
- fullpage全屏轮播|https://github.com/alvarotrigo/fullPage.js 
+  
+## 各大公司开源项目
+* Facebook Projects|https://code.facebook.com/projects/web 
+* 百度web前端研发部|http://fex.baidu.com 
+* 百度EFE|http://efe.baidu.com 
+* 百度github|https://github.com/fex-team 
+* alloyteam|http://www.alloyteam.com 
+* alloyteam-github|http://alloyteam.github.io 
+* alloyteam-AlloyGameEngine|https://github.com/AlloyTeam/AlloyGameEngine 
+* AlloyDesigner|http://alloyteam.github.io/AlloyDesigner 
+* 即时修改，即时保存，设计稿较正，其它开发辅助工具 H5交互页编辑器AEditor介绍|http://www.alloyteam.com/2015/06/h5-jiao-hu-ye-bian-ji-qi-aeditor-jie-shao 
+* H5动画交互页开发的工具介绍 AEditor|http://aeditor.alloyteam.com 
+* H5动画交互页开发的工具 maka|http://forum.maka.im/wordpress 
+* 值得订阅的weekly|https://github.com/fenbility/weekly-feed 
+* 腾讯html5|http://cube.qq.com 
+* 奇舞团开源项目|http://75team.github.io 
+* Qunar UED|http://ued.qunar.com 
+* Scrat|http://scrat.io  
+
+##　常用
+* ieBetter.js-让IE6-IE8拥有IE9+,Chrome等浏览器特性|http://www.zhangxinxu.com/wordpress/2013/12/iebetter-js-make-ie6-ie8-like-modern-browser-ie9-chrome 
+* 模拟键盘|http://mottie.github.io/Keyboard 
+* 拼音|https://github.com/hotoo/pinyin 
+* 中国个人身份证号验证|https://github.com/mc-zone/IDValidator 
+
+
+## 算法
+* 数据结构与算法 JavaScript 描述. 章节练习|https://github.com/Ralph-Wang/algorithm.in.js 
+* 常见排序算法（JS版）|https://github.com/twobin/twobinSort 
+* 经典排序|https://github.com/luofei2011/jsAgm/blob/master/js/sort.js 
+* 常见排序算法-js版本|https://github.com/hechangmin/jssort 
+* JavaScript 算法与数据结构 精华集|https://github.com/lightningtgc/JavaScript-Algorithms 
+* 面试常考算法题精讲|http://www.nowcoder.com/live/courses 
+
+
+## 移动端
+* fastclick|https://github.com/ftlabs/fastclick 
+* no-click-delay|https://github.com/mmastrac/jquery-noclickdelay 
+  
+##JSON
+* 模拟生成JSON数据|http://beta.json-generator.com 
+* 返回跨域JSONAPI|http://jsonp.afeld.me 
+
+## Html5
+* HTML5 有哪些让你惊艳的 demo？|http://www.zhihu.com/question/24398907 
+   
+
+  
+## 焦点图 
+* myfocus|https://github.com/koen301/myfocus 
+* myfocus-官方演示站|http://www.chhua.com/myfocus 
+* SuperSlidev2.1 -- 大话主席|http://www.superslide2.com 
+* soChange|http://www.bujichong.com/sojs/soChange/index.html 
+
+## Ext, EasyUI, J-UI 及其它各种UI方案
+* extjs|https://www.sencha.com/products/extjs 
+* ext4英文api|http://docs.sencha.com/extjs/4.0.7 
+* ext4中文api|http://extjs-doc-cn.github.io/ext4api 
+  
+##　EasyUI &  J-UI 
+* jquery easyui 未压缩源代码|http://jquery-easyui.googlecode.com/svn/trunk/src 
+* J-UI|http://jui.org 
+  
+## Other 
+* MUI-最接近原生APP体验的高性能前端框架|http://dcloudio.github.io/mui 
+* Amaze UI | 中国首个开源 HTML5 跨屏前端框架|http://amazeui.org 
+* 淘宝 HTML5 前端框架|http://m.sui.taobao.org 
+* KISSY - 阿里前端JavaScript库|http://docs.kissyui.com 
+* 网易Nej - Nice Easy Javascript|http://nej.netease.com 
+* Kendo UI MVVM Demo|http://demos.telerik.com/kendo-ui/mvvm/index 
+* Bootstrap|http://www.bootcss.com 
+* Smart UI|http://smartui.chinamzz.com 
+* 雅虎UI - CSS UI|http://developer.yahoo.com/yui/grids 
+   
+## 页面 社会化 分享功能 
+* 百度分享|http://share.baidu.com 
+* pc端 JiaThis|http://jiathis.com 
+* pc端 社会化分享组件|http://developer.baidu.com/soc/share 
+* 移动端 ShareSDK 轻松实现社会化功能|http://www.mob.com/#/index 
+* 移动端 友盟分享|http://dev.umeng.com/social/android/quick-integration 
+ 
+ 
+## 富文本编辑器 
+* 功能齐全 tinymce|https://www.tinymce.com 
+* 百度 ueditor|http://ueditor.baidu.com/website 
+* 经典的ckeditor|http://ckeditor.com 
+* 经典的kindeditor|http://kindeditor.net 
+* wysiwyg|http://www.bootcss.com/p/bootstrap-wysiwyg 
+* 一个有情怀的编辑器。Bach's Editor|http://integ.github.io/BachEditor 
+* tower用的编辑器|https://github.com/mycolorway/simditor 
+* summernote 编辑器|https://github.com/summernote/summernote 
+* html5编辑器|http://neilj.github.io/Squire 
+* XEditor|http://lab.hustlzp.com/XEditor 
+* wangEditor|https://github.com/wangfupeng1988/wangEditor 
+    
+## PC
+* 经典my97|http://www.my97.net/dp/demo/index.htm 
+* 强大的独立日期选择器|http://www.cnblogs.com/gbin1/archive/2012/04/16/2452105.html 
+* fullcalendar|http://fullcalendar.io 
+* fullcalendar日历控件知识点集合 |http://blog.csdn.net/francislaw/article/details/7740630 
+* 中文api|http://blog.sina.com.cn/s/blog_9475b1c101012c5f.html 
+* 农历日历|https://github.com/zzyss86/LunarCalendar 
+* 超酷的仿百度带节日日历老黄历控件|http://www.sucaisj.com/jiaoben/date/201509/16856.html 
+* 日期格式化|http://momentjs.com 
+* 大牛日历控件|https://github.com/Johnqing/QPAYCalendar 
+* 我群某管理作品|https://github.com/Iamlars/dateMarker 
+* input按位替换-官网|http://digitalbush.com/projects/masked-input-plugin 
+* input按位替换-github|https://github.com/digitalBush/jquery.maskedinput/tree/1.2.2 
+* bootstrap-daterangepicker|https://github.com/dangrossman/bootstrap-daterangepicker 
+* 国外30个插件集合|http://www.vandelaydesign.com/30-best-free-jquery-plugins 
+* JavaScript datepicker|http://dbushell.com/2012/10/09/pikaday-javascript-datepicker 
+* Datepair.js|http://jonthornton.github.io/Datepair.js 
+* 一个风格多样的日历|https://github.com/glad/glDatePicker 
+* 弹出层式的全日历|http://amsul.ca/pickadate.js/date 
+* jquery双日历|http://www.daterangepicker.com 
+   
+   
+## 移动
+* 大气实用jQuery手机移动端日历日期选择插件|http://www.frankdemo.cn/index.php?c=content&amp;a=show&amp;id=115 
+* jQuery Mobile 移动开发中的日期插件Mobiscroll |https://mobiscroll.com 
+   
+## Date library 
+* Datejs|https://github.com/datejs/Datejs 
+* sugarjs|http://sugarjs.com/api/Date 
+   
+## 综合效果搜索平台
+* 效果网|http://www.jq22.com 
+* 17素材|http://www.17sucai.com 
+* 常用的JavaScript代码片段|http://microjs.com 
+  
+## 概述
+* 前端工具大全|http://www.awesomes.cn 
+* 什么是前端工程化|https://github.com/fouber/blog/issues/10?from=timeline&amp;isappinstalled=0# 
+  
+  
+## Gulp & Grunt
+* Gulp官网|http://gulpjs.com 
+* Gulp中文网|http://www.gulpjs.com.cn 
+* gulp资料收集|https://github.com/Platform-CUF/use-gulp 
+* Gulp：任务自动管理工具 - ruanyifeng|http://javascript.ruanyifeng.com/tool/gulp.html 
+* Gulp插件|http://gulpjs.com/plugins 
+* Gulp不完全入门教程|http://www.ido321.com/1622.html 
+* 为什么使用gulp?|https://github.com/hjzheng/CUF_meeting_knowledge_share/issues/33 
+* Gulp安装及配合组件构建前端开发一体化|http://www.dbpoo.com/getting-started-with-gulp 
+* Gulp 入门指南|https://github.com/nimojs/gulp-book 
+* Gulp 入门指南 - nimojs|https://github.com/nimojs/blog/issues/19 
+* Gulp入门教程|http://markpop.github.io/2014/09/17/Gulp%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B 
+* Gulp in Action|http://www.imooc.com/video/5692 
+* Gulp开发教程（翻译）|http://www.w3ctech.com/topic/134 
+* 前端构建工具gulpjs的使用介绍及技巧|http://www.cnblogs.com/2050/p/4198792.html 
+* gruntjs|http://gruntjs.com 
+* Grunt中文网|http://www.gruntjs.net
+  
+## Fis 
+* fis 官网|http://fex-team.github.io/fis-site/index.html 
+* fis|http://fis.baidu.com 
+  
+  
+##pc图轮
+* 单屏轮播sochange|http://www.jsfoot.com/jquery/demo/2011-09-20/192.html 
+* 左右按钮多图切换|http://bxslider.com/examples/carousel-demystified 
+* fullpage全屏轮播|https://github.com/alvarotrigo/fullPage.js 
 
 
 ## 移动端
@@ -529,35 +531,37 @@ avalon
 * 图片裁剪|http://elemefe.github.io/image-cropper 
 * 图片裁剪-shearphoto|http://www.shearphoto.com 
 * jQuery图片处理|http://www.oschina.net/project/tag/284/jquery-image-tools?lang=0&amp;os=0&amp;sort=view&amp;p=2 
-   模拟select  | 地址 --- | ---
-|地址 --- | ---
-   糖饼 select|http://aui.github.io/popupjs/doc/selectbox.html 
- flexselect|https://github.com/rmm5t/jquery-flexselect 
- 双select|http://loudev.com 
- select2|http://select2.github.io 
-   取色插件  | 地址 --- | ---
-|地址 --- | ---
-   类似 Photoshop 的界面取色插件|http://www.jq22.com/plugin/367 
- jquery color|https://github.com/jquery/jquery-color 
- 取色插件集合|http://www.oschina.net/project/tag/287/color-picker 
- farbtastic 圆环＋正方形|https://github.com/mattfarina/farbtastic 
-   城市联动  | 地址 --- | ---
-|地址 --- | ---
-   jquery.cityselect.js基于jQuery+JSON的省市或自定义联动效果|http://www.ijquery.cn/?p=360 
-   剪贴板  | 地址 --- | ---
-|地址 --- | ---
-   剪贴板|https://github.com/zeroclipboard/zeroclipboard 
- clipboard 最新的剪切方案|http://zenorocha.github.io/clipboard.js 
- 不是Flash的剪贴板|https://github.com/zenorocha/clipboard.js 
-   简繁转换  | 地址 --- | ---
-|地址 --- | ---
-   简繁转换|https://github.com/BYVoid/OpenCC 
-   表格 Grid  | 地址 --- | ---
-|地址 --- | ---
-   facebook表格|http://facebook.github.io/fixed-data-table 
- 类似于Excel编辑表格-handsontable|http://handsontable.com 
- bootstrap-table插件|http://bootstrap-table.wenzhixin.net.cn 
- datatables|https://www.datatables.net 
+   
+##模拟select 
+* 糖饼 select|http://aui.github.io/popupjs/doc/selectbox.html 
+* flexselect|https://github.com/rmm5t/jquery-flexselect 
+* 双select|http://loudev.com 
+* select2|http://select2.github.io 
+   
+## 取色插件
+
+* 类似 Photoshop 的界面取色插件|http://www.jq22.com/plugin/367 
+* jquery color|https://github.com/jquery/jquery-color 
+* 取色插件集合|http://www.oschina.net/project/tag/287/color-picker 
+* farbtastic 圆环＋正方形|https://github.com/mattfarina/farbtastic 
+  
+## 城市联动
+* jquery.cityselect.js基于jQuery+JSON的省市或自定义联动效果|http://www.ijquery.cn/?p=360 
+  
+  
+##剪贴板
+* 剪贴板|https://github.com/zeroclipboard/zeroclipboard 
+* clipboard 最新的剪切方案|http://zenorocha.github.io/clipboard.js 
+* 不是Flash的剪贴板|https://github.com/zenorocha/clipboard.js 
+  
+## 简繁转换 
+* 简繁转换|https://github.com/BYVoid/OpenCC 
+   
+##表格 Grid 
+* facebook表格|http://facebook.github.io/fixed-data-table 
+* 类似于Excel编辑表格-handsontable|http://handsontable.com 
+* bootstrap-table插件|http://bootstrap-table.wenzhixin.net.cn 
+* datatables|https://www.datatables.net 
 
 ## 在线演示
 * js 在线编辑 - runjs|http://runjs.cn 
@@ -570,33 +574,33 @@ avalon
 * sql 在线编辑 - sqlfiddle|http://sqlfiddle.com 
 * mozilla 在线编辑器|https://thimble.mozilla.org
   
-   播放器  | 地址 --- | ---
-|地址 --- | ---
-   Html5 VideoPlayer|https://github.com/zmmbreeze/DeadSimpleVideoPlayer 
-   粒子动画  | 地址 --- | ---
-|地址 --- | ---
-   Proton 烟花|http://a-jie.github.io/Proton/#example 
-   Nodejs  | 地址 --- | ---
-|地址 --- | ---
-   nodejs 篇幅比较巨大|http://liuqing.pw 
- Node.js 包教不包会|https://github.com/alsotang/node-lessons 
- 篇幅比较少|http://www.rainweb.cn/article/category/Nodejs 
- node express 入门教程|http://www.w3cfuns.com/article-5598538-1-1.html 
- nodejs定时任务|http://my.oschina.net/u/568264/blog/193773 
- 一个nodejs博客|http://60sky.com 
- 【NodeJS 学习笔记04】新闻发布系统|http://www.cnblogs.com/yexiaochai/p/3536547.html 
- 过年7天乐，学nodejs 也快乐|http://www.cnblogs.com/qqloving/p/3541099.html 
- 七天学会NodeJS|https://github.com/nqdeng/7-days-nodejs 
- Nodejs学习笔记（二）--- 事件模块|http://www.cnblogs.com/zhongweiv/p/nodejs_events.html 
- nodejs入门|http://www.cnblogs.com/liusuqi/p/3735491.html 
- angularjs nodejs|https://github.com/zensh/jsgen 
- 从零开始nodejs系列文章|http://blog.fens.me/series-nodejs 
- 理解nodejs|http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb 
- nodejs事件轮询|http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop 
- node入门|http://www.nodebeginner.org/index-zh-cn.html 
- nodejs cms|http://ourjs.com/detail/53e1f281c5910a9806000001 
- Node初学者入门，一本全面的NodeJS教程|http://ourjs.com/detail/529ca5950cb6498814000005 
- NodeJS的代码调试和性能调优|http://www.barretlee.com/blog/2015/10/07/debug-nodejs-in-command-line 
+   
+## 播放器 
+* Html5 VideoPlayer|https://github.com/zmmbreeze/DeadSimpleVideoPlayer 
+
+## 粒子动画 
+* Proton 烟花|http://a-jie.github.io/Proton/#example 
+  
+## Nodejs
+* nodejs 篇幅比较巨大|http://liuqing.pw 
+* Node.js 包教不包会|https://github.com/alsotang/node-lessons 
+* 篇幅比较少|http://www.rainweb.cn/article/category/Nodejs 
+* node express 入门教程|http://www.w3cfuns.com/article-5598538-1-1.html 
+* nodejs定时任务|http://my.oschina.net/u/568264/blog/193773 
+* 一个nodejs博客|http://60sky.com 
+* 【NodeJS 学习笔记04】新闻发布系统|http://www.cnblogs.com/yexiaochai/p/3536547.html 
+* 过年7天乐，学nodejs 也快乐|http://www.cnblogs.com/qqloving/p/3541099.html 
+* 七天学会NodeJS|https://github.com/nqdeng/7-days-nodejs 
+* Nodejs学习笔记（二）--- 事件模块|http://www.cnblogs.com/zhongweiv/p/nodejs_events.html 
+* nodejs入门|http://www.cnblogs.com/liusuqi/p/3735491.html 
+* angularjs nodejs|https://github.com/zensh/jsgen 
+* 从零开始nodejs系列文章|http://blog.fens.me/series-nodejs 
+* 理解nodejs|http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb 
+* nodejs事件轮询|http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop 
+* node入门|http://www.nodebeginner.org/index-zh-cn.html 
+* nodejs cms|http://ourjs.com/detail/53e1f281c5910a9806000001 
+* Node初学者入门，一本全面的NodeJS教程|http://ourjs.com/detail/529ca5950cb6498814000005 
+* NodeJS的代码调试和性能调优|http://www.barretlee.com/blog/2015/10/07/debug-nodejs-in-command-line 
 
 ## 常规优化
 * Javascript高性能动画与页面渲染|http://www.infoq.com/cn/articles/javascript-high-performance-animation-and-page-rendering 
